@@ -22,6 +22,7 @@
         <activity android:name=".funtionpage.ConsoleActivity"></activity>
         <activity android:name=".funtionpage.LoopbackActivity"></activity>
         <activity android:name=".funtionpage.Sending01010101Activity"></activity>
+        <activity android:name=".funtionpage.KeyBoradActivity"></activity>
 
     </application>
 
